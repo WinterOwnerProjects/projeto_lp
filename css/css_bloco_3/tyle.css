@@ -1,0 +1,51 @@
+*{
+    font-family: 'Taviraj', serif;
+}
+body{
+    padding: 0;
+    margin:0;
+    font-family: 'Taviraj', serif;
+}
+
+.button-section3{
+    border: 2px solid black;
+    padding: 13 19 13 22;
+    width: 30vh;
+    font-size: 2.5vh;
+    background-color: #a3a0a02f;   
+}
+.button-section3 span{
+    font-weight: 500;
+}
+.button-container{
+    display: flex;
+    justify-content: center;
+}
+.section3{
+    height: 85vh;
+    padding: 2.5% 6% 7.5% 6%;
+    background-color: white;
+}
+.content-title h2{
+    font-size: 6.5vh;
+    line-height: 6.8vh;
+}
+.content-title h2 > span{
+    color:#505050;
+}
+.icon{
+    width:14vh;
+}
+.content-block{
+    display: flex;
+    justify-content: center;
+}
+.block-item{
+    font-size: 2vh;
+    text-align: center;
+    padding: 2%;
+    width:30vh;
+}
+.title-topic{
+    font-size:2.7vh;
+}

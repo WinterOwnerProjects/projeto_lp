@@ -1,0 +1,90 @@
+*{
+    font-family: 'Taviraj', serif;
+}
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Taviraj', serif;
+}
+.div-header-pt2 a, select{
+    color:#fff;
+}
+.div-navegation-header option , a{
+    text-decoration: none;
+    color:#000;
+}
+.div-navegation-header select, option{
+    border: none;
+    background:none;
+}
+
+.button-section1{
+    border: 2px solid black;
+    padding: 13 22;
+    width: 30vh;
+    font-size: 3vh;
+    background-color: #a3a0a02f;
+}
+.button-section1 span{
+    font-weight: 500;
+}
+.div-navegation-header nav{
+    font-size:2.5vh;
+}
+.div-navegation-header select{
+    font-size:2.5vh;
+}
+.section-header{
+    display: flex;
+    height: 100vh;
+}
+.div-header-pt1{
+    width: 60%;
+}
+.div-header-pt2{
+    background: url("https://www.freecodecamp.org/news/content/images/size/w2000/2022/09/jonatan-pie-3l3RwQdHRHg-unsplash.jpg") no-repeat center; 
+    background-size: cover;
+    width: 40%;
+}
+.div-contents-1{
+    padding: 0% 12%;
+}
+.div-contents-1 h1{
+    font-size: 10vh;
+    margin-top: 16.3%;
+    margin-bottom: 5.3vh;
+    line-height: 8.3vh;
+}
+.logo{
+    width:30%;
+}
+.div-navegation-header nav{
+    padding: 3% 8% 0% 8%;
+     
+}
+.div-header-pt1 nav{
+    display:flex;
+    height: 15vh;
+    
+}
+.div-header-pt1 nav div{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.div-header-pt2 nav{
+    display:flex;
+    height: 15vh;
+}
+.div-header-pt2 nav div{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 5vh;
+    
+}
+.div-contents-1 p{
+    font-size: 2.5vh;
+    line-height: 2.5vh;
+}

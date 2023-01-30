@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding:0;
+    font-family: 'Taviraj', serif;   
+}
+.content-title5{
+    font-size: 4vh;
+    text-align: center;
+}
+.content-title5 h2 > span{
+color:#505050;
+}
+.pricing-content{
+    display: flex;
+    justify-content: center;
+    font-size: 2vh; 
+}
+.plans{
+    width:30vh;
+    text-align: center;
+    padding: 0 2%;
+    height: 75vh;
+}
+.bck-thr{
+    color:#ffff;
+    background-color: #000000;
+}
+.bck-thr hr{
+    border: 2px solid white;
+}
+.bck-thr button{
+    background-color: #ffff;
+    border:1px solid #ffff;
+    padding: 0.8vh 2.2vh;
+}
+.wht-thr button{
+    border: 1px solid #000;
+    background-color: #000;
+    color:#ffff;
+    padding: 0.8vh 2.2vh;
+}
+.wht-thr hr{
+    border: 2px solid black;
+}
+.plan-price span{
+    font-size: 1.8vh;
+}
+.benefits-of-the-plan{
+    height: 45vh;
+}
+.buy-button button{
+    font-size: 2.8vh;
+}

@@ -7,9 +7,7 @@
 
 <section class="section3">
     <div class="content-title">
-        <h2>
-            Our <span>Services</span>
-        </h2>
+        <h2>Our <span>Services</span></h2>
     </div>
     <br>
     <div class="content-block">

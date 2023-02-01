@@ -1,6 +1,3 @@
-<style>
-
-</style>
 <link rel="stylesheet" href="/projeto_lp/css/css_bloco_4/style.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

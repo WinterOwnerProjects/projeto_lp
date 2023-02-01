@@ -1,0 +1,78 @@
+body{
+    padding:0;
+    margin: 0;
+}
+.section6a{
+    height:80vh;
+    background-color: #f3f3f3;
+}
+.section6a h2{
+    padding: 3.5vh;
+    text-align:center;
+    font-size:5.5vh;
+}
+.section6a h2 > span{
+    color: #505050;
+}
+
+.section6b{
+    display: flex;
+    justify-content: center;
+    gap:7vh;
+    font-family: Taviraj;
+    line-height:3vh; 
+}
+.conteudo-depoimento{
+    border: 1px solid black;
+    width: 60vh;
+    height: 35vh;
+    padding: 5vh 5vh 3vh 5vh;
+
+}
+.clip-path{
+    width: 16vh;
+    height: 16vh;
+    clip-path: circle(50% at 50% 50%);
+    margin: 0vh 0 0 4vh;
+    position: absolute;
+}
+.depoiment-img{
+    width: 100%;
+    height: 100%;
+}
+.flex-content{
+    display:flex;  
+}
+.depoiment-hr{
+    margin-left: -8.3%;
+    width: 116%;    
+    border: 2px solid; 
+}
+.person-name-div1{
+    width: 60%;  
+}
+.person-name-div2{
+    width: 40%;
+    margin: 1vh 0 3vh 0;
+}
+.person-name-div2b{
+    margin:8px;
+    width: 40%;
+    display: flex;
+    gap: 2vh;
+}
+.person-name-div2 p{
+    margin:-1vh;
+    font-size: 3vh;
+}
+.person-name-div2 p > span{
+    color: #505050;
+}
+.person-name-div2b img{
+    width: 3vh;
+    margin-bottom: 1vh;
+}
+.conteudo3-depoimento{
+    padding: 0vh 4vh;
+    font-size: 2vh;
+}

@@ -1,0 +1,29 @@
+.section7{
+    display: flex;
+    padding: 0 30vh;
+}
+.content-blc7{
+    width: 50%;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content-title7{
+    font-size: 4vh;
+    line-height: 5vh;
+    display: flex;
+    justify-content: flex-start;
+}
+.button-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button-content button{
+    border: 2px solid black;
+    padding: 1.3vh 1.9vh;
+    width: 30vh;
+    font-size: 2.5vh;
+    background-color: #a3a0a02f;
+}

@@ -23,4 +23,4 @@ def create_new_block(numero):
     if (not os.path.exists(path_archive_css)):
         css = open(path_archive_css,"w")
         css.close()
-create_new_block(6)
+create_new_block(8)

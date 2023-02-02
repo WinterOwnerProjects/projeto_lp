@@ -4,7 +4,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Taviraj:ital,wght@0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
 
 <?php 
-for($i = 1; $i <= 6; $i++){
+for($i = 1; $i <= 7; $i++){
     $var = '<link rel="stylesheet" href="/projeto_lp/css/css_bloco_'.$i.'/style.css">';
     echo $var;
 }
@@ -17,6 +17,7 @@ include "blocos/bloco3/bloco3.php";
 include "blocos/bloco4/bloco4.php"; 
 include "blocos/bloco5/bloco5.php"; 
 include "blocos/bloco6/bloco6.php";
+include "blocos/bloco7/bloco7.php";
 ?>
 
 
